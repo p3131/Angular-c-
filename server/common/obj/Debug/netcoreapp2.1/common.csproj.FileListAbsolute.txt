@@ -1,0 +1,9 @@
+D:\אנגולר\המ נעמי\פרויקט\server\common\bin\Debug\netcoreapp2.1\common.deps.json
+D:\אנגולר\המ נעמי\פרויקט\server\common\bin\Debug\netcoreapp2.1\common.dll
+D:\אנגולר\המ נעמי\פרויקט\server\common\bin\Debug\netcoreapp2.1\common.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\common\obj\Debug\netcoreapp2.1\common.csprojAssemblyReference.cache
+D:\אנגולר\המ נעמי\פרויקט\server\common\obj\Debug\netcoreapp2.1\common.AssemblyInfoInputs.cache
+D:\אנגולר\המ נעמי\פרויקט\server\common\obj\Debug\netcoreapp2.1\common.AssemblyInfo.cs
+D:\אנגולר\המ נעמי\פרויקט\server\common\obj\Debug\netcoreapp2.1\common.csproj.CoreCompileInputs.cache
+D:\אנגולר\המ נעמי\פרויקט\server\common\obj\Debug\netcoreapp2.1\common.dll
+D:\אנגולר\המ נעמי\פרויקט\server\common\obj\Debug\netcoreapp2.1\common.pdb

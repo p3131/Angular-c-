@@ -1,0 +1,304 @@
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\appsettings.json
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\server.exe
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\server.deps.json
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\server.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\server.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\BL.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\common.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\DAL.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\BL.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\common.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.csprojAssemblyReference.cache
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.RazorTargetAssemblyInfo.cache
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.csproj.CopyComplete
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.MvcApplicationPartsAssemblyInfo.cache
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\server.exe
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\server.deps.json
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\server.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\server.pdb
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\BL.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\common.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\DAL.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\BL.pdb
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\common.pdb
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.csprojAssemblyReference.cache
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.MvcApplicationPartsAssemblyInfo.cache
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.RazorTargetAssemblyInfo.cache
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.csproj.CopyComplete
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.pdb
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache

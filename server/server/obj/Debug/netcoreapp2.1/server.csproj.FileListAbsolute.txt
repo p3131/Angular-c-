@@ -1,0 +1,14 @@
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp2.1\server.deps.json
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp2.1\server.runtimeconfig.json
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp2.1\server.runtimeconfig.dev.json
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp2.1\server.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\bin\Debug\netcoreapp2.1\server.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp2.1\server.csprojAssemblyReference.cache
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp2.1\server.csproj.CoreCompileInputs.cache
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp2.1\server.RazorAssemblyInfo.cache
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp2.1\server.RazorAssemblyInfo.cs
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp2.1\server.AssemblyInfoInputs.cache
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp2.1\server.AssemblyInfo.cs
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp2.1\server.RazorTargetAssemblyInfo.cache
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp2.1\server.dll
+D:\אנגולר\המ נעמי\פרויקט\server\server\obj\Debug\netcoreapp2.1\server.pdb

@@ -1,0 +1,30 @@
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\DAL.runtimeconfig.json
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\DAL.runtimeconfig.dev.json
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.genruntimeconfig.cache
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\common.dll
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\common.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CopyComplete
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\DAL.runtimeconfig.json
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\DAL.runtimeconfig.dev.json
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\common.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\bin\Debug\netcoreapp2.1\common.pdb
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CopyComplete
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\DAL\obj\Debug\netcoreapp2.1\DAL.genruntimeconfig.cache

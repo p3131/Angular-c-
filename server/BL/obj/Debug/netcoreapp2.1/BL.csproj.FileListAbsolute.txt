@@ -1,0 +1,14 @@
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp2.1\BL.deps.json
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp2.1\BL.dll
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp2.1\BL.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp2.1\BL.csprojAssemblyReference.cache
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp2.1\BL.csproj.CoreCompileInputs.cache
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp2.1\BL.AssemblyInfoInputs.cache
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp2.1\BL.AssemblyInfo.cs
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp2.1\BL.dll
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp2.1\BL.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp2.1\common.dll
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp2.1\DAL.dll
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp2.1\common.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp2.1\BL.csproj.CopyComplete

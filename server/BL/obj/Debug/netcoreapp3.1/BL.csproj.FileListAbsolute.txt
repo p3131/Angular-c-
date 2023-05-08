@@ -1,0 +1,28 @@
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\BL.dll
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\common.dll
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\common.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+D:\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\BL.pdb
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.dll
+D:\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.pdb
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\common.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\common.pdb
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\תיקייתי\גיבוי שנה ב\אנגולר\המ נעמי\פרויקט\server\BL\obj\Debug\netcoreapp3.1\BL.pdb
